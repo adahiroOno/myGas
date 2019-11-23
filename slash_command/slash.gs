@@ -1,4 +1,4 @@
-var channelName = 'hogechannel' //コマンドを使用するチャンネル名。適宜編集してください。
+var channelName = 'enclass94' //コマンドを使用するチャンネル名。適宜編集してください。
 
 var token = PropertiesService.getScriptProperties().getProperty('OAuth_token');
 var slackApp = SlackApp.create(token);
